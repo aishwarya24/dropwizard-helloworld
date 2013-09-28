@@ -1,5 +1,6 @@
 dropwizard-helloworld
 =====================
+git log commits the most recent commits.
 
 $ mvn clean package
 
