@@ -33,4 +33,4 @@ build.sh
 run-forever.sh
 --nohup java -jar xxxxxxx
 --save new PID in /tmp/app.pid
-
+3. git log commits the most recent commits.
